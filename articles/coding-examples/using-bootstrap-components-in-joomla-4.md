@@ -389,7 +389,7 @@ Il collasso è ampiamente utilizzato in Joomla e potresti non aver bisogno di us
 
 Risultato:
 
-![Bootstrap collaps](../../../en/images/coding-examples/coding-examples-collapse.png)
+![Bootstrap collapse](../../../en/images/coding-examples/coding-examples-collapse.png)
 
 ### Esempio 5: Menu a tendina
 
@@ -587,7 +587,7 @@ Risultato:
 
 I passaggi coinvolti:
 
-- Scaricare, installare e abilitare questo plugin: [](https://github.com/ceford/j4xdemos-plg-bscompos/raw/master/plg_j4xdemos_bscompos.zip)
+- Scaricare, installare e abilitare questo [plugin](https://github.com/ceford/j4xdemos-plg-bscompos/raw/master/plg_j4xdemos_bscompos.zip)
 - Nell'articolo aggiungere il testo su cui il plugin agisce, ad esempio {bscompos modal carousel} attiverà il caricamento del JavaScript necessario per supportare un dialogo modale e un carosello. Il plugin rimuove il testo di attivazione e racchiude (ora) i tag vuoti.
 - Includere il codice HTML del Componente Bootstrap direttamente nell'articolo o in un modulo incluso nell'articolo. C'è un esempio di codice HTML qui sotto per un semplice Modale e un Modale contenente un Carosello. Si noti che questo non funzionerà se il codice HTML si trova in un modulo in una posizione del template.
 - Questo funzionerà anche per un modulo Personalizzato standard se l'opzione Prepara Contenuto è impostata su Sì.
@@ -786,4 +786,3 @@ Questo codice cerca i nomi delle classi impostate in mod_custom e effettua la ch
 ![Bootstrap modal carousel](../../../en/images/coding-examples/coding-examples-modal-carousel.png)
 
 *Tradotto da openai.com*
-
