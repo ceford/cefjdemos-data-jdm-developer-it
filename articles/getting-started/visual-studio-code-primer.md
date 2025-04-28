@@ -276,7 +276,7 @@ Giorni delle torte?
 
 ## Riferimenti
 
-Dalla documentazione di Joomla!: [Visual Studio Code](https://docs.joomla.org/Visual_Studio_Code "Visual Studio Code") che copre anche la configurazione di altri strumenti, ad esempio CodeSniffer e PHPUnit.
+Dalla documentazione di Joomla!: [Visual Studio Code](https://docs.joomla.org/Visual_Studio_Code) che copre anche la configurazione di altri strumenti, ad esempio CodeSniffer e PHPUnit.
 
 *Tradotto da openai.com*
 

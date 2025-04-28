@@ -14,7 +14,7 @@ Joomla! 4.x
 
 **Joomla! 4.x** viene fornito con sistemi di file cloud per il **Media Manager** di default. Con la precedente API, creare sistemi di file personalizzati era un compito difficile. Grazie alla nuova API, ora è facile creare un sistema di file personalizzato. Se vuoi usare un Servizio Cloud con il nuovo Media Manager, è consigliato utilizzare **OAuth2.0**.
 
-Questo documento ti guiderà attraverso i passaggi importanti per creare il tuo **Plugin del File System** per estendere il **Media Manager**. Prima di procedere, assicurati di avere una conoscenza di base su come sviluppare un plugin per Joomla. [Questo tutorial](https://docs.joomla.org/J3.x:Creating_a_Plugin_for_Joomla "Special:MyLanguage/J3.x:Creating a Plugin for Joomla") dovrebbe aiutarti.
+Questo documento ti guiderà attraverso i passaggi importanti per creare il tuo **Plugin del File System** per estendere il **Media Manager**. Prima di procedere, assicurati di avere una conoscenza di base su come sviluppare un plugin per Joomla. [Questo tutorial](https://docs.joomla.org/J3.x:Creating_a_Plugin_for_Joomla) dovrebbe aiutarti.
 
 ## Crea il tuo plugin Filesystem
 

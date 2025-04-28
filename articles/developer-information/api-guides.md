@@ -2,7 +2,7 @@
 
 Questa pagina contiene un indice alla serie di Guide API di Joomla. Queste guide mirano ad aiutarti a comprendere come utilizzare queste funzioni Joomla nelle tue estensioni Joomla.
 
-Ogni guida API include un esempio di codice che puoi copiare e installare nel tuo ambiente di sviluppo. Generalmente questi esempi di codice sono scritti per essere inclusi e installati come modulo Joomla, quindi se non hai familiarità con lo sviluppo di moduli Joomla potresti trovare utile consultare la breve serie [Creare un Modulo Semplice](https://docs.joomla.org/Creating_a_simple_module "Creating a simple module").
+Ogni guida API include un esempio di codice che puoi copiare e installare nel tuo ambiente di sviluppo. Generalmente questi esempi di codice sono scritti per essere inclusi e installati come modulo Joomla, quindi se non hai familiarità con lo sviluppo di moduli Joomla potresti trovare utile consultare la breve serie [Creare un Modulo Semplice](https://docs.joomla.org/Creating_a_simple_module).
 
 Intorno a Joomla 3.8, il team di sviluppo di Joomla ha iniziato a cambiare la convenzione di denominazione delle classi di Joomla per utilizzare gli spazi dei nomi, in modo che, ad esempio, JFactory sia cambiato in Factory nello spazio dei nomi Joomla\CMS. Mentre leggi il codice e la documentazione esistenti di Joomla, potresti trovare le classi che seguono sia il nuovo che il vecchio standard di denominazione. Puoi trovare la mappatura tra le due convenzioni di denominazione nel file `libraries/classmap.php` nella tua istanza di Joomla.
 
