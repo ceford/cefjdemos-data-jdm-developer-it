@@ -14,7 +14,7 @@ In questo esempio, i siti di test Joomla si trovano in sottocartelle della root 
 
 Questa è un'istantanea di parte di un elenco della cartella Siti che mostra una selezione di molti siti di test:
 
-![multiple sites on mac](../../../en/images/getting-started/developer-file-structure-mac-sites.png)
+![multiple sites on mac](../../../en/images/getting-started/developer-file-structure/01-multiple-sites-on-mac.png)
 
 Ognuno è accessibile tramite il nome della sua sottocartella. Esempi:
 
@@ -27,7 +27,7 @@ Ci sono circostanze in cui potresti preferire creare siti virtuali separati. Que
 
 Se non l'hai già fatto, dovrai familiarizzare con la struttura di un sito web Joomla. L'illustrazione seguente mostra una tipica struttura di file e cartelle Joomla, con la cartella Administrator espansa per mostrarne il contenuto.
 
-![joomla file structure with administrator expanded](../../../en/images/getting-started/developer-file-structure-mac-joomla.png)
+![joomla file structure with administrator expanded](../../../en/images/getting-started/developer-file-structure/02-file-structure-admin-expanded.png)
 
 Questo è il luogo in cui verrà installato il codice funzionante. Il codice sorgente si trova altrove.
 
@@ -35,7 +35,7 @@ Questo è il luogo in cui verrà installato il codice funzionante. Il codice sor
 
 La posizione del tuo codice di estensione è una scelta personale. Mi piace mantenere il mio codice di estensione in una struttura di file adatta alla creazione di un file zip installabile. La base della mia struttura è /Users/username/git perché so come scrivere git e utilizzo git per il controllo di versione. Non è necessario farlo - git sarà trattato in un tutorial separato. La mia cartella principale git contiene molte sottocartelle che possono utilizzare cartelle git separate per il controllo di versione. Questa è una schermata che mostra un elenco parziale di progetti:
 
-![joomla file structure project folders](../../../en/images/getting-started/developer-file-structure-mac-project-folders.png)
+![joomla file structure project folders](../../../en/images/getting-started/developer-file-structure/03-project-folders.png)
 
 Nota che alcuni dei nomi delle cartelle iniziano con `j4xdemos`, che ho adottato come prima parte dello spazio dei nomi utilizzato per i miei progetti creati a scopo di tutorial su Joomla 4. Non è necessario far parte del nome della cartella, ma è qualcosa a cui pensare: la prima parte del tuo spazio dei nomi deve essere qualcosa di unico per te o per la tua organizzazione. Successivamente, ho adottato `cefjdemos` come prefisso dello spazio dei nomi, in quanto è più personale e non specifico per una versione di Joomla.
 
@@ -45,7 +45,7 @@ Prendendo j4xdemos-com-mywalks come esempio, tutto il codice che andrà nell'est
 
 Nell'illustrazione seguente, la cartella j4xdemos-com-mywalks è stata aperta in VSCodium per mostrare la struttura del codice del progetto. Il file mywalks.xml è un file manifesto che indica a Joomla cosa installare e dove. Le cartelle admin e site contengono il codice che andrà in administrator/components/com_mywalks e components/com_mywalks.
 
-![Project folder open in vscodium](../../../en/images/getting-started/developer-file-structure-mac-vscodium.png)
+![Project folder open in vscodium](../../../en/images/getting-started/developer-file-structure/04-project-open-in-vscodium.png)
 
 Dovrebbe essere ovvio che anche un piccolo componente necessita di molti file e cartelle. Sono disponibili strumenti di base per la creazione di estensioni per creare rapidamente un componente scheletro. Sono trattati altrove. ToDo
 

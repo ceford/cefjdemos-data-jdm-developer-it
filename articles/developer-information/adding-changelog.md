@@ -4,7 +4,7 @@ Dalla versione 4.0 di Joomla, gli sviluppatori di estensioni possono sfruttare l
 
 Le modifiche in una versione saranno presentate in questo modo:
 
-![changelog modal view](../../../en/images/developer-information/adding-changelog-example-1.png)
+![changelog modal view](../../../en/images/developer-information/adding-changelog/01-changelog-modal-view.png)
 
 Il changelog è utilizzato in due diversi luoghi.
 
@@ -12,7 +12,7 @@ Il changelog è utilizzato in due diversi luoghi.
 
 L'installatore mostrerà il changelog della versione che può essere installata se disponibile.
 
-![changelog installer view](../../../en/images/developer-information/adding-changelog-update-view.png)
+![changelog installer view](../../../en/images/developer-information/adding-changelog/02-changelog-installer-view.png)
 
 Facendo clic sul pulsante Changelog qui, verrà mostrato il changelog della nuova versione disponibile.
 
@@ -20,7 +20,7 @@ Facendo clic sul pulsante Changelog qui, verrà mostrato il changelog della nuov
 
 Il gestore delle estensioni mostrerà il registro delle modifiche dell'estensione attualmente installata, se disponibile.
 
-![changelog installer view](../../../en/images/developer-information/adding-changelog-extension-view.png)
+![changelog installer view](../../../en/images/developer-information/adding-changelog/03-changelog-extension-view.png)
 
 Facendo clic sul numero di versione qui verrà visualizzato il changelog della versione attualmente installata.
 

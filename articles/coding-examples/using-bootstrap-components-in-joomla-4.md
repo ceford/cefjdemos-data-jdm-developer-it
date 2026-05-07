@@ -293,7 +293,7 @@ Gli avvisi possono essere utilizzati nel codice HTML senza supporto JavaScript. 
 
 Risultato esempio dell'inclusione di un modulo in un articolo:
 
-![Bootstrap alert](../../../en/images/coding-examples/coding-examples-alert.png)
+![Bootstrap alert](../../../en/images/coding-examples/bootstrap-components/01-bootstrap-alert.png)
 
 Nota che senza il supporto JavaScript, l'avviso apparirà esattamente come sopra, ma un clic sul pulsante di chiusura \[X\] non chiuderà l'avviso. Inoltre, l'avviso apparirà ad ogni caricamento della pagina.
 
@@ -321,7 +321,7 @@ Con questo stile nel modello user.css:
     }
 ```
 
-![Bootstrap buttons](../../../en/images/coding-examples/coding-examples-buttons.png)
+![Bootstrap buttons](../../../en/images/coding-examples/bootstrap-components/02-bootstrap-buttons.png)
 
 I pulsanti alternano tra blu e verde.
 
@@ -367,7 +367,7 @@ Il carosello offre uno slideshow che cicla attraverso una serie di immagini o pa
 
 Risultato:
 
-![Bootstrap carousel](../../../en/images/coding-examples/coding-examples-carousel.jpg)
+![Bootstrap carousel](../../../en/images/coding-examples/bootstrap-components/03-bootstrap-carousel.jpg)
 
 ### Esempio 4: Riduci
 
@@ -389,7 +389,7 @@ Il collasso è ampiamente utilizzato in Joomla e potresti non aver bisogno di us
 
 Risultato:
 
-![Bootstrap collapse](../../../en/images/coding-examples/coding-examples-collapse.png)
+![Bootstrap collapse](../../../en/images/coding-examples/bootstrap-components/04-bootstrap-collapse.png)
 
 ### Esempio 5: Menu a tendina
 
@@ -412,7 +412,7 @@ I menu a discesa sono sovrapposizioni contestuali attivabili per visualizzare el
 
 Risultato:
 
-![Bootstrap dropdown](../../../en/images/coding-examples/coding-examples-dropdown.png)
+![Bootstrap dropdown](../../../en/images/coding-examples/bootstrap-components/05-bootstrap-dropdown.png)
 
 ### Esempio 6: Modale
 
@@ -441,7 +441,7 @@ Il componente Modal apre una finestra di dialogo al centro dello schermo. Ci son
 
 Risultato:
 
-![Bootstrap modal](../../../en/images/coding-examples/coding-examples-modal.png)
+![Bootstrap modal](../../../en/images/coding-examples/bootstrap-components/06-bootstrap-modal.png)
 
 ### Esempio 7: Fuori Canvas
 
@@ -457,7 +457,7 @@ I popover sono simili ai Tooltip ma con un Titolo. Presentano alcuni problemi di
 
 Risultato:
 
-![Bootstrap alert](../../../en/images/coding-examples/coding-examples-popover.png)
+![Bootstrap alert](../../../en/images/coding-examples/bootstrap-components/08-bootstrap-popover.png)
 
 ### Esempio 9: Scrollspy
 
@@ -504,7 +504,7 @@ Esempio di codice:
 
 Risultato:
 
-![Bootstrap scrollspy](../../../en/images/coding-examples/coding-examples-scrollspy.png)
+![Bootstrap scrollspy](../../../en/images/coding-examples/bootstrap-components/09-bootstrap-scrollspy.png)
 
 Inoltre, è necessario un po' di stile in user.css:
 
@@ -540,7 +540,7 @@ Le schede vengono spesso utilizzate come elementi di navigazione combinati con i
 
 Risultato:
 
-![Bootstrap tab](../../../en/images/coding-examples/coding-examples-tab.png)
+![Bootstrap tab](../../../en/images/coding-examples/bootstrap-components/10-bootstrap-tab.png)
 
 Ricorda di controllare sia l'opzione Tab che quella a discesa affinché la parte a discesa funzioni.
 
@@ -561,7 +561,7 @@ I toast sono notifiche leggere progettate per imitare le notifiche push che sono
 
 Risultato:
 
-![Bootstrap toast](../../../en/images/coding-examples/coding-examples-toast.png)
+![Bootstrap toast](../../../en/images/coding-examples/bootstrap-components/11-bootstrap-toast.png)
 
 Si noti che la demo di Bootstrap che utilizza un pulsante per mostrare il messaggio Toast necessita di ulteriore JavaScript. Sembra che questo componente richieda un programmatore per essere utilizzato al meglio!
 
@@ -581,7 +581,7 @@ Un tooltip è un piccolo testo che appare quando si passa il mouse su un pulsant
 
 Risultato:
 
-![Bootstrap tooltip](../../../en/images/coding-examples/coding-examples-tooltip.png)
+![Bootstrap tooltip](../../../en/images/coding-examples/bootstrap-components/12-bootstrap-tooltip.png)
 
 ## Approccio 2: Utilizzo di un plugin di contenuto
 
@@ -713,7 +713,7 @@ Questo codice cerca i nomi delle classi impostate in mod_custom e effettua la ch
 - Crea un elemento di menu Articolo Singolo.
 - Provalo:
 
-![Bootstrap modal module in article](../../../en/images/coding-examples/coding-examples-modal-module.png)
+![Bootstrap modal module in article](../../../en/images/coding-examples/bootstrap-components/13-bootstrap-modal-module-in-article.png)
 
 ### Un Componente Modale Contenente un Carousel
 
@@ -783,6 +783,6 @@ Questo codice cerca i nomi delle classi impostate in mod_custom e effettua la ch
 - Crea un nuovo elemento di menu per un singolo articolo: Demo Modal Carousel
 - Testalo:
 
-![Bootstrap modal carousel](../../../en/images/coding-examples/coding-examples-modal-carousel.png)
+![Bootstrap modal carousel](../../../en/images/coding-examples/bootstrap-components/14-bootstrap-modal-carousel.png)
 
 *Tradotto da openai.com*

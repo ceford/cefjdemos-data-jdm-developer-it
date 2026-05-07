@@ -48,7 +48,7 @@ Su GitHub puoi trovare progetti nei cosiddetti Repository. All'interno di un pro
 
 Sul tuo computer di test utilizzerai il ramo **4.2-dev**. Tuttavia, non puoi modificare questo ramo perché non ne sei il proprietario. Devi crearne una copia. Su GitHub questo è chiamato un Fork. Sei il proprietario di quella copia, quindi puoi modificarla. Dopo aver modificato il tuo fork, puoi fare una Pull Request per le modifiche che hai apportato. Maggiori informazioni su questo più avanti. Puoi fare un Fork di un ramo premendo il pulsante Fork nel [Joomla! CMS Github Repository](https://github.com/joomla/joomla-cms). Questo pulsante si trova in alto a destra della pagina.
 
-![Fork joomla in github](../../../en/images/getting-started/core-git-fork-joomla.png)
+![Fork joomla in github](../../../en/images/getting-started/working-with-git-and-github/01-fork-joomla-in-github.png)
 
 Dopo aver eseguito il fork, devi installare Joomla! sul tuo computer locale. Vai alla cartella dove puoi posizionare i file utilizzati dal tuo server Web. Molti programmi usano una cartella chiamata `htdocs`. Alcuni usano `www` e altri usano cartelle completamente diverse. Tutto dipende dal fatto che tu stia usando Windows, Mac o Linux. Alla fine, la tua radice web conterrà cartelle diverse per siti web diversi. Una volta all'interno della cartella root web. O, in una finestra Terminale aperta, usa il comando cd per cambiare la directory corrente alla radice web. Oppure, nel tuo esploratore di file GUI, trova la cartella root web, premi il tasto destro del mouse e fai clic su: "Git Bash Here" o "Open Terminal" o qualcosa di simile.
 

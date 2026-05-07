@@ -6,7 +6,7 @@ I nuovi arrivati possono avere l'impressione che MySQL e MariaDB siano database 
 
 Lo screenshot seguente mostra parte di un elenco di oltre 30 database creati per testare varie installazioni di Joomla e progetti di estensioni.
 
-![Phypadmin screenshot of list of databases](../../../en/images/getting-started/phpmyadmin-databases.png)
+![Phypadmin screenshot of list of databases](../../../en/images/getting-started/databases/01-phpmyadmin-list-of-databases.png)
 
 Una nota a margine: le collazioni sono principalmente utf8mb4_0900_ai_ci:
 

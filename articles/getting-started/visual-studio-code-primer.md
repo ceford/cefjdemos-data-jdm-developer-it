@@ -100,7 +100,7 @@ Nella Configurazione Globale di Joomla, imposta *Debug del Sistema* su *Sì* e *
 
 Quando apri una pagina contenente il modulo difettoso, vedrai un traceback che ti indicherà dove è stato attivato un errore.
 
-![Stack trace](../../../en/images/getting-started/vscode-primer-stack-trace.png)
+![Stack trace](../../../en/images/getting-started/vscode-primer/01-stack-trace.png)
 
 A volte l'errore di codice si trova sulla prima riga dello stack trace. Altrimenti, se l'errore viene attivato nel codice della libreria, ad esempio passando dati non validi a una funzione del database, l'errore di codice potrebbe trovarsi più in basso nell'elenco delle chiamate di funzione.
 
@@ -108,7 +108,7 @@ A volte l'errore di codice si trova sulla prima riga dello stack trace. Altrimen
 
 In VS Code, utilizza l'elemento di menu File / Apri cartella per individuare e aprire la cartella contenente la tua copia locale del codice dell'estensione *mod_debugme*. Dovresti vedere qualcosa di simile al seguente:
 
-![VS Code screen](../../../en/images/getting-started/vscode-primer-screen.png)
+![VS Code screen](../../../en/images/getting-started/vscode-primer/02-vscode-screen.png)
 
 Potresti essere in grado di diagnosticare il problema semplicemente leggendo il codice. Nel caso dell'errore *Class "DebugHelper" not found* vedrai che un'istruzione *use* è stata commentata poche righe sopra. Dimenticare di inserire un'istruzione *use* è un errore comune durante lo sviluppo iniziale!
 
@@ -270,7 +270,7 @@ Alcuni problemi non così ovvi:
 
 Quando tutto è sistemato, questo è ciò che potresti vedere:
 
-![Site view of debugged module working](../../../en/images/getting-started/vscode-primer-debugme-fixed.png)
+![Site view of debugged module working](../../../en/images/getting-started/vscode-primer/03-debugme-fixed.png)
 
 Giorni delle torte?
 

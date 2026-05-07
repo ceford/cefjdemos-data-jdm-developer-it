@@ -277,7 +277,7 @@ Code Sniffer è supportato di default in PhpStorm. Vai su Impostazioni e sotto *
 8. Joomla dovrebbe ora essere disponibile nell'elenco. Vedi immagine seguente.
 9. Clicca OK
 
-![CodeSniffer in PHPStorm](../../../en/images/getting-started/core-phpstorm-code-sniffer.png)
+![CodeSniffer in PHPStorm](../../../en/images/getting-started/joomla-codesniffer/01-codesniffer-in-phpstorm.png)
 
 ### Installazione in Netbeans
 
@@ -302,11 +302,11 @@ Netbeans ha la funzionalità sniffer integrata nel sistema principale.
 5. **Finestra → Preferenze**
 6. **Strumenti PHP → PHP CodeSniffer**
 
-![Eclipse PTI settings](../../../en/images/getting-started/core-eclipse-pti-settings.png)
+![Eclipse PTI settings](../../../en/images/getting-started/joomla-codesniffer/02-eclipse-pti-settings.png)
 
 Ora puoi annusare le violazioni del codice rispetto agli standard comuni.
 
-![Codesniffer in Eclipse](../../../en/images/getting-started/core-eclipse-pti.png)
+![Codesniffer in Eclipse](../../../en/images/getting-started/joomla-codesniffer/03-codesniffer-in-eclipse.png)
 
 ### Installazione in Geany
 
