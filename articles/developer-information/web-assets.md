@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Web_Assets / Display title: Risorse Web -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Web_Assets",
+  "title": "Risorse Web ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Informazioni sugli asset web
 

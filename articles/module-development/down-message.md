@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:J4_Module_example_-_Mydownmsg / Display title: Esempio: Messaggio di Sito Non Disponibile -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:J4_Module_example_-_Mydownmsg",
+  "title": "Esempio: Messaggio di Sito Non Disponibile ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduzione
 
@@ -51,7 +58,7 @@ cefjdemos-plg-toc
 
 Questa è la struttura come appare nell'IDE di VSCode o VSCodium:
 
-![Plugin development file structure in vscodium](../../../en/images/modules/down-message/01-files-in-vscodium.png)
+![Plugin development file structure in vscodium](../../../en/images/module-development/down-message/01-files-in-vscodium.png)
 
 ## Il File Manifesto
 
@@ -362,21 +369,21 @@ Nella lista dei parametri comuni a destra
 4. Nella scheda **Assegnazione menu** seleziona **Su tutte le pagine**.  
 5. **Salva** e sei pronto a controllare l'aspetto del sito.
 
-![the module edit form](../../../en/images/modules/down-message/02-module-edit-form.png)
+![the module edit form](../../../en/images/module-development/down-message/02-module-edit-form.png)
 
 ## Testando
 
 Ecco come appare il messaggio in inglese:
 
-![site down message in english](../../../en/images/modules/down-message/03-module-result-en.png)
+![site down message in english](../../../en/images/module-development/down-message/03-module-result-en.png)
 
 In tedesco:
 
-![site down message in german](../../../en/images/modules/down-message/04-module-result-de.png)
+![site down message in german](../../../en/images/module-development/down-message/04-module-result-de.png)
 
 E Francese:
 
-![site down message in french](../../../en/images/modules/down-message/05-module-result-fr.png)
+![site down message in french](../../../en/images/module-development/down-message/05-module-result-fr.png)
 
 ## Aggiorna sito e registro modifiche
 

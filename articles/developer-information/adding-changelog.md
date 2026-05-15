@@ -1,4 +1,11 @@
-<!-- Filename: Adding_changelog_to_your_manifest_file / Display title: Aggiunta di un Registro delle Modifiche -->
+<!--
+{
+  "source": "https://docs.joomla.org/Adding_changelog_to_your_manifest_file",
+  "title": "Aggiunta di un Registro delle Modifiche ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Dalla versione 4.0 di Joomla, gli sviluppatori di estensioni possono sfruttare la capacità di Joomla di leggere un file changelog e fornire una rappresentazione visiva del changelog. Se una determinata versione non è presente nel changelog, il pulsante del changelog non verrà mostrato.
 

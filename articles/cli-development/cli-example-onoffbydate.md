@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:CLI_example_-_Onoffbydate / Display title: Esempio CLI - Onoffbydate -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:CLI_example_-_Onoffbydate",
+  "title": "Esempio CLI - Onoffbydate ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduzione
 

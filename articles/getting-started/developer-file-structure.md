@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Developer:_File_Structure / Display title: Esempio di Struttura dei File -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Developer:_File_Structure",
+  "title": "Esempio di Struttura dei File ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduzione
 

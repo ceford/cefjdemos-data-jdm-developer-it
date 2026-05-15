@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Joomla_4_Tips_and_Tricks:_Form_Validation_Basics / Display title: Validazione del modulo -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Joomla_4_Tips_and_Tricks:_Form_Validation_Basics",
+  "title": "Validazione del modulo ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduzione
 

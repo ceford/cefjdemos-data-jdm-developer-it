@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:MVC_Anatomy:_Site_Files / Display title: MVC Anatomia: File del Sito -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:MVC_Anatomy:_Site_Files",
+  "title": "MVC Anatomia: File del Sito ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Struttura dei file
 

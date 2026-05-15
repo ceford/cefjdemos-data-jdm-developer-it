@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Joomla_Core_APIs / Display title: Joomla Core API -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Joomla_Core_APIs",
+  "title": "Joomla Core API ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Questa pagina elenca gli endpoint disponibili in Joomla con esempi di comandi curl. È stata preparata per Joomla 4 e richiede una verifica di conformità con le versioni attuali di Joomla.
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Http_Header_Management / Display title: Intestazioni HTTP -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Http_Header_Management",
+  "title": "Intestazioni HTTP ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduzione
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:MVC_Anatomy:_Administrator_Edit_Files / Display title: Anatomia MVC: Modifica File Amministratore -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:MVC_Anatomy:_Administrator_Edit_Files",
+  "title": "Anatomia MVC: Modifica File Amministratore ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## File di Dati del Paese
 
@@ -227,7 +234,7 @@ HTMLHelper::_('behavior.keepalive');
 
 Puoi scorrere tra i fieldset del modulo e i campi all'interno di ciascun fieldset. Ciò può semplificare l'output di moduli complessi con molte schede.
 
-![country edit form](../../../en/images/mvc-anatomy/mvc-anatomy-administrator-edit-files/01-country-edit-form/01-country-edit-form.png)
+![country edit form](../../../en/images/mvc-anatomy/mvc-anatomy-administrator-edit-files/01-country-edit-form.png)
 
 *Tradotto da openai.com*
 

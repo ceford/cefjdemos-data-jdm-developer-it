@@ -1,4 +1,11 @@
-<!-- Filename: IDE / Display title: IDE -->
+<!--
+{
+  "source": "https://docs.joomla.org/IDE",
+  "title": "IDE ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Ambienti di Sviluppo Integrati
 

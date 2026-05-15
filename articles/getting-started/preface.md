@@ -1,4 +1,11 @@
-<!-- Filename: Prefazione / Display title: Prefazione -->
+<!--
+{
+  "source": "https://docs.joomla.org/Prefazione",
+  "title": "Prefazione ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Su Questo Manuale
 
